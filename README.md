@@ -27,6 +27,6 @@
 
   澳门：「淘宝」收货地址、 [澳门行政区划 - 维基百科](https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83)
 
-  台湾：[台湾行政区划 - 维基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83)，并增加金门县\*、马祖乡\*
+  台湾：[台湾行政区划 - 维基百科](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83)
 
   简称：港澳台
